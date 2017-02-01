@@ -1,0 +1,12 @@
+{
+    "projectName": "Repository1",
+    "username": "swapna.geedi@rallyhealth.com.qa",
+    "id": "e7fab6a0-e8ae-11e6-876b-61ddcf106426",
+    "namespace": "",
+    "environment": "sandbox",
+    "loginUrl": "https://test.salesforce.com/",
+    "workspace": "/Users/swapna.geedi/Documents/app/myworkspace",
+    "subscription": [
+        "ApexClass"
+    ]
+}

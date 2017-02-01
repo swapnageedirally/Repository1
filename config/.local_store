@@ -1,0 +1,16 @@
+{
+    "AccountHeader.cls": {
+        "createdById": "005E0000005u8CIIAY",
+        "createdByName": "Alex Roth",
+        "createdDate": "2015-09-16T16:18:23.000Z",
+        "fileName": "unpackaged/classes/AccountHeader.cls",
+        "fullName": "AccountHeader",
+        "id": "01pE0000002NPKnIAO",
+        "lastModifiedById": "00518000001M8cWAAS",
+        "lastModifiedByName": "Swapna Geedi",
+        "lastModifiedDate": "2017-02-01T16:05:49.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}
